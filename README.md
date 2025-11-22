@@ -54,11 +54,9 @@ We used a **Random Forest Regressor** due to its ability to handle non-linear re
 ## 📸 Visualizations
 
 ### Correlation Heatmap
-*(Upload your heatmap screenshot here, e.g., `![Heatmap](images/heatmap.png)`)*
 > Shows the relationship between numerical features, highlighting the link between MRP and Sales.
 
 ### Feature Importance (Random Forest)
-*(Upload your feature importance bar chart here)*
 > Visualizes which factors (MRP, Outlet Type) the AI considers most important for prediction.
 
 ---
@@ -67,4 +65,4 @@ We used a **Random Forest Regressor** due to its ability to handle non-linear re
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/yourusername/BlinkIT-Sales-Prediction-Analysis.git](https://github.com/yourusername/BlinkIT-Sales-Prediction-Analysis.git)
+   git clone [https://github.com/yourusername/BlinkIT-Sales-Prediction-Analysis.git](https://github.com/AnuragRai7/BlinkIT-Sales-Prediction-Analysis.git)
